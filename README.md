@@ -1,4 +1,4 @@
-# Welcome to Remix + Vite!
+# Welcome to Fullstack Notion Clone: Remix, React, Convex, Tailwind  
 
 📖 See the [Remix docs](https://remix.run/docs) and the [Remix Vite docs](https://remix.run/docs/en/main/guides/vite) for details on supported features.
 
